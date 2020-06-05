@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Curriculum Vitae</title>
+        <link href="index.css" rel="stylesheet"></link>
+        <link rel="stylesheet" type="javascript/text" href="index.js">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js" integrity="sha384-1CmrxMRARb6aLqgBO7yyAxTOQE2AKb9GfXnEo760AUcUmFx3ibVJJAzGytlQcNXd" crossorigin="anonymous"></script>
+    
+        <style>
+            .container {
+              position: relative;
+              width: 107%;
+            }
+            
+            .image {
+              opacity: 1;
+              display: block;
+              width: 100%;
+              height: 100%;
+              transition: .5s ease;
+              backface-visibility: hidden;
+            }
+            
+            .middle {
+              transition: .5s ease;
+              opacity: 0;
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+              -ms-transform: translate(-50%, -50%);
+              text-align: center;
+            }
+            
+            .container:hover .image {
+              opacity: 0.3;
+            }
+            
+            .container:hover .middle {
+              opacity: 1;
+            }
+            
+            .text {
+              background-color: #4CAF50;
+              color: white;
+              font-size: 16px;
+              padding: 16px 32px;
+            }
+            </style>
+    
+    
+    </head>
+    
+    <body style="background-color: black;color: white;">
+        <h1>Print("Hello World")</h1>
+        <table>
+            <tr>
+                    <th class="home" onclick="window.open('home.html','_self')">
+                        <div class="container">
+                            <img src="code.jpg" alt="Avatar" class="image" style="width:100%">
+                            <div class="middle">
+                              <div class="text">Bibliography</div>
+                            </div>
+                          </div>
+                    </th>
+
+
+
+
+
+                <th class="profess" onclick="window.open('profess.html','_self')">
+                    <div class="container">
+                        <img src="123.jpg" alt="Avatar" class="image" style="width:100%">
+                        <div class="middle">
+                          <div class="text">Technical</div>
+                        </div>
+                      </div></th>
+
+
+
+
+                <th class="achieve" onclick="window.open('achieve.html','_self')">
+                    <div class="container">
+                        <img src="code1.jpg" alt="Avatar" class="image" style="width:100%">
+                        <div class="middle">
+                          <div class="text">Achievement</div>
+                        </div>
+                      </div>
+                </th>
+            </tr>
+
+            <tr>
+                <th class="experience" onclick="window.open('experience.html','_self')">
+                    <div class="container">
+                        <img src="laptop1.jpg" alt="Avatar" class="image" style="width:100%">
+                        <div class="middle">
+                            <div class="text">Experience</div>
+                    </div>
+                  </div></th>
+
+
+                  
+                <th class="portfolio" onclick="window.open('portfolio.html','_self')">
+                    <div class="container">
+                        <img src="coding_background.jpg" alt="Avatar" class="image" style="width:100%">
+                        <div class="middle">
+                          <div class="text">Portfolio</div>
+                        </div>
+                      </div>
+                </th>
+                <th class="contact" onclick="window.open('contact.html','_self')">
+                    <div class="container">
+                        <img src="laptop.jpg" alt="Avatar" class="image" style="width:100%">
+                        <div class="middle">
+                          <div class="text">Contact</div>
+                        </div>
+                      </div>
+                </th>
+            </tr> 
+        </table>
+    </body>
+</html>
