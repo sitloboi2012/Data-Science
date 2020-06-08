@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591611359390.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3229437979",
+    "id" : "A238D152",
+    "lastKnownWriteTime" : 1591619742,
+    "last_content_update" : 1591619742893,
+    "path" : "C:/Users/huyvo/OneDrive/Máy tính/HackerRank/Portfolio/Wine/Wines.R",
+    "project_path" : "Wines.R",
+    "properties" : {
+        "cursorPosition" : "42,30",
+        "scrollLine" : "31",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

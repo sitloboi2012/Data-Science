@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591612911469.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "135199896",
+    "id" : "4FA2CD10",
+    "lastKnownWriteTime" : 1591359821,
+    "last_content_update" : 1591359821,
+    "path" : "C:/Users/huyvo/OneDrive/Máy tính/HackerRank/Portfolio/Titanic/titanic.r",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "181,0",
+        "scrollLine" : "164"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
