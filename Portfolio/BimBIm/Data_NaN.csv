@@ -1,0 +1,143 @@
+,Name,Address,Sale Type,Total Money,Shipper,Status,Payment Type,Time,Shop Suburb,Type Shop
+0,Phoebe Dao,267 Hutt street,Delivery,21.8,Minh Tan,Completed,Bank Transfer,20:27:38,CBD,BimBim
+1,Tran Huy Thong,"90 Bagot Avenue, Cowandilla 5033",Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,07:06:46,CBD,BimBim
+4,Phuong ,54 Hallet Bvld Allenby Gardens 5009,Delivery,19.7,Hoang Anh,Completed,Bank Transfer,21:40:09,West Croydon,BimBim
+5,Nancy,Unit5/77 cowan street,Pick-up,0.0,Hoang Anh,Cancelled,Bank Transfer,04:30:00,Athol Park,BimBim
+6,Hari Đoàn,"227 hanson road, athol park Sa 5012",Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,18:00:00,Athol Park,BimBim
+7,Thanh Pham,"9 Booker Ct, Pennington, SA 5013",Delivery,31.700000000000006,Minh Tan,Completed,Bank Transfer,18:59:08,Athol Park,BimBim
+10,Nicole Nguyen,"163 Days Road, Regency Park,SA, ",Pick-up,0.0,Minh Tan,Cancelled,Bank Transfer,19:33:40,Croydon Park,BimBim
+11,Nicole Nguyen,163 Days Road,Delivery,32.6,Minh Tan,Completed,Bank Transfer,20:30:00,Croydon Park,BimBim
+12,Duyên,Ferryden park,Pick-up,16.85,Hoang Anh,Completed,Bank Transfer,14:01:20,West Croydon,BimBim
+13,GIANG BUI,"46 Hampstead Road, Broadview 5083 SA ",Delivery,0.0,Minh Tan,Cancelled,Bank Transfer,14:58:54,Woodville,BimBim
+14,Linh,99 Croydon Park,Delivery,22.750000000000004,Hoang Anh,Completed,Bank Transfer,16:50:40,Croydon Park,BimBim
+16,Lien nguyen,70 hooking tce- woodville garrdend,Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,18:10:08,Woodville North,BimBim
+17,Han,"64 Overland Road, Croydon Park 5008",Delivery,15.8,Minh Tan,Completed,Bank Transfer,18:30:58,Croydon Park,BimBim
+18,Phu ,"Hanson funtea, 171B Hanson Rd, Athol Park SA 5012",Delivery,10.9,Minh Tan,Completed,Bank Transfer,19:37:00,Kilkenny,BimBim
+19,Hồ Vy,Eynesbury college Franklin St,Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,15:35:00,CBD,BimBim
+20,Hồ Vy,Eynesbury college Franklin st,Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,19:45:54,CBD,BimBim
+21,Hồ Vy,Eynesbury college Franklin St,Delivery,16.85,Hoang Anh,Completed,Bank Transfer,16:35:00,CBD,BimBim
+22,Janice Truong,17 thirteenth ave,Delivery,34.65,Hoang Anh,Completed,Bank Transfer,11:30:00,Woodville North,BimBim
+23,Duyen Tran,5 Balranald Street,Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,16:05:13,West Croydon,BimBim
+24,Duyen Tran,5 Balranald Street Ferryden Park 5010,Delivery,21.75,Minh Tan,Completed,Bank Transfer,16:00:45,Croydon Park,BimBim
+25,Kylie Luong,Rundle Mall,Pick-up,13.900000000000002,Minh Tan,Completed,Bank Transfer,16:42:26,CBD,BimBim
+26,Phoebe Dao,"211 Grenfell street, Domain apartment, adl, 5000 ",Delivery,21.75,Minh Tan,Completed,Bank Transfer,17:42:10,CBD,BimBim
+27,Vy,518 Prospect Road Kilburn 5082,Delivery,0.0,Minh Tan,Cancelled,Bank Transfer,18:02:47,CBD,BimBim
+28,Vy,518 Prospect Road killburn 5082,Pick-up,0.0,Hoang Anh,Cancelled,Bank Transfer,18:27:08,CBD,BimBim
+29,Vy,518 Prospect Road killburn 5082,Delivery,0.0,Minh Tan,Cancelled,Bank Transfer,19:08:21,CBD,BimBim
+31,Kristine Nguyen,"46 Watson Avenue, Rose Park",Delivery,21.6,Hoang Anh,Completed,Bank Transfer,15:20:45,CBD,BimBim
+32,Hoang Quach,5008,Delivery,17.8,Hoang Anh,Completed,Bank Transfer,20:20:47,Ridleyton,BimBim
+33,TAM DANG,88 FROME STREET ADELAIDE SA 5000,Delivery,16.8,Minh Tan,Completed,Bank Transfer,20:30:02,CBD,BimBim
+34,Lien nguyen,70 hooking tce- woodville gardens,Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,17:21:00,Woodville North,BimBim
+35,Vinh gâu gâu,Rundle Mall,Pick-up,0.0,Hoang Anh,Cancelled,Bank Transfer,18:14:00,CBD,BimBim
+36,Sonca tran,"6 Peter street,lockleys ",Delivery,13.9,Hoang Anh,Completed,Bank Transfer,18:42:42,Woodville South,BimBim
+37,Han,64 Overland Park SA 5008,Delivery,15.8,Minh Tan,Completed,Bank Transfer,07:15:42,Croydon Park,BimBim
+38,Giao Nguyen,15 Talbot street Angle park Adelaide 5010,Delivery,16.85,Minh Tan,Completed,Bank Transfer,07:15:52,Mansfield Park,BimBim
+39,Linh,"128 Franklin Street , Adelaide , SA 5000",Delivery,20.85,Minh Tan,Completed,Bank Transfer,11:05:00,CBD,BimBim
+40,"Thanh, ProfessioNail ","Myer foodcourt, rundle mall, adelaide 5000",Delivery,17.85,Hoang Anh,Completed,Bank Transfer,03:00:36,CBD,BimBim
+41,Duyen Tran,5 Balranald Street Ferryden Park 5010,Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,15:08:13,Croydon Park,BimBim
+42,Duyen Tran,5 Balranald Street Ferryden Park 5010,Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,15:30:43,Croydon Park,BimBim
+43,Xuan Nguyen ,"1A Devereux road, Linden Park, SA 5065",Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,05:59:00,CBD,BimBim
+44,Thuan,Ferryden park,Pick-up,0.0,Minh Tan,Cancelled,Bank Transfer,05:00:00,Ferryden Park,BimBim
+45,Tien,"35 Shepley Crescent, Burton",Delivery,38.6,Hoang Anh,Completed,Bank Transfer,09:28:41,Woodville,BimBim
+46,Angela Nguyen,Wingfield,Pick-up,20.8,Hoang Anh,Completed,Bank Transfer,16:30:49,Mansfield Park,BimBim
+48,Lê an,"39 byron street, mansfield park",Delivery,15.85,Hoang Anh,Completed,Bank Transfer,18:30:22,Mansfield Park,BimBim
+49,Nhung Tran,"4 Hall ct, woodville north",Delivery,24.75,Hoang Anh,Completed,Bank Transfer,18:15:11,Woodville North,BimBim
+50,Hương,"31 Edgecombe street, woodville north",Delivery,19.8,Hoang Anh,Completed,Bank Transfer,19:30:23,Athol Park,BimBim
+51,Duyen Tran,5 Balranald Street Ferryden Park 5010,Delivery,22.8,Minh Tan,Completed,Bank Transfer,19:02:33,West Croydon,BimBim
+52,Thu Doan (Amy),"Unilodge City Gardens, 105 Gray Street, SA 5000",Delivery,15.8,Hoang Anh,Completed,Bank Transfer,19:04:05,CBD,BimBim
+54,Thanh Dang,University of Adelaide,Delivery,30.7,Minh Tan,Completed,Bank Transfer,13:00:00,CBD,BimBim
+55,3t,Norwood,Delivery,50.6,Hoang Anh,Completed,Bank Transfer,12:33:29,CBD,BimBim
+56,3t,Norwood,Pick-up,6.95,Hoang Anh,Completed,Bank Transfer,13:32:00,CBD,BimBim
+57,Ha nguyen,Cbd,Pick-up,6.95,Hoang Anh,Completed,Bank Transfer,16:04:05,CBD,BimBim
+58,"Thanh, ProfessioNail","Myer Foodcourt, rundle mall, adelaide 5000",Delivery,15.85,Hoang Anh,Completed,Bank Transfer,03:00:00,CBD,BimBim
+60,Nhina,10 Beatrice Street Ottoway,Delivery,40.60000000000001,Minh Tan,Completed,Bank Transfer,20:01:08,Athol Park,BimBim
+61,Trang,46/87 mary st unley park sa 5061,Delivery,0.0,Minh Tan,Cancelled,Bank Transfer,21:00:00,CBD,BimBim
+62,Miran,160 Rundle mall,Pick-up,0.0,Hoang Anh,Cancelled,Bank Transfer,12:55:44,CBD,BimBim
+63,Miran,382 Carrington street,Delivery,15.85,Minh Tan,Completed,Bank Transfer,15:10:55,CBD,BimBim
+64,Phoebe Dao,"212 Grenfell street, Adelaide CBD ",Delivery,38.60000000000001,Hoang Anh,Completed,Bank Transfer,17:33:45,CBD,BimBim
+65,Kelly vo,"6 John Letts Place, St Clair 5011",Delivery,26.75,Hoang Anh,Completed,Cash,02:00:20,Woodville,BimBim
+66,Sonca tran,"shop 5,115 findon road Woodville south 5011",Delivery,13.9,Hoang Anh,Completed,Bank Transfer,15:31:00,Woodville South,BimBim
+67,Hoang Tuan Anh Nguyen,"206/267 Hutt Street, Adelaide SA 5000",Delivery,20.85,Minh Tan,Completed,Bank Transfer,16:12:06,CBD,BimBim
+68,Nhina,"10 Beatrice Street , Otto6",Delivery,22.75,Minh Tan,Completed,Bank Transfer,17:08:50,Athol Park,BimBim
+69,Tran Do,71 Leslie Street East,Delivery,49.55,Minh Tan,Completed,Bank Transfer,07:15:29,Woodville,BimBim
+71,Danh Tran,"9 Cleve Street, Mansfield Park",Pick-up,0.0,Hoang Anh,Cancelled,Bank Transfer,14:30:40,Mansfield Park,BimBim
+74,Dong Lam Bao Ngoc,"89 Greenhill road, Wayville, 5034",Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,18:30:03,CBD,I Love My Family
+75,Annie,"14 Copley Street, Broadview 5083",Delivery,23.75,Hoang Anh,Completed,Bank Transfer,15:00:42,Prospect,BimBim
+76,3t,Norwood ,Pick-up,20.85,Minh Tan,Completed,Cash,13:02:36,CBD,BimBim
+77,3t,Norwood,Pick-up,15.0,Hoang Anh,Completed,Bank Transfer,14:30:00,CBD,Kas percafe
+79,Kim,Gongcha rundle,Pick-up,19.75,Hoang Anh,Completed,Bank Transfer,05:35:32,CBD,BimBim
+80,3t,Norwood ,Pick-up,15.0,Hoang Anh,Completed,Bank Transfer,18:29:00,CBD,Kas percafe
+81,Truc,"Unit 1607, 18 Rowlands Place,Adelaide, SA",Delivery,18.85,Minh Tan,Completed,Cash,18:28:07,CBD,BimBim
+82,Trân Đoàn ,43 Queensborough Avenue ,Delivery,17.85,Hoang Anh,Completed,Cash,19:27:18,Regency Park,BimBim
+83,Heidi,"Unit 26/131 Gray street, Adelaide, SA 5000",Delivery,16.85,Hoang Anh,Completed,Bank Transfer,07:50:50,CBD,BimBim
+84,Angela Nguyen,Wingfield,Pick-up,20.8,Hoang Anh,Completed,Bank Transfer,21:00:22,Athol Park,BimBim
+85,Hoang Tuan Anh Nguyen,"206/267 Hutt Street, Adelaide",Delivery,17.85,Minh Tan,Completed,Bank Transfer,21:02:47,CBD,BimBim
+87,3t,Norwood ,Pick-up,47.6,Hoang Anh,Completed,Cash,12:03:37,CBD,BimBim
+88,Lien nguyen,70 Hookings Tce Woodville Gardens 5012,Delivery,20.8,Anto,Completed,Cash,14:49:30,Woodville Gardens,BimBim
+90,Hà,"51 Torrens road, bowden 5007",Delivery,6.95,Anto,Completed,Cash,21:13:00,CBD,BimBim
+91,Huy,304 Waymouth Street,Pick-up,0.0,Anto,Cancelled,Bank Transfer,15:30:55,CBD,BimBim
+92,Khanh Ngo,20 Montague Road Ingle Farm ,Delivery,17.85,Hoang Anh,Completed,Bank Transfer,14:02:46,Kilburn,BimBim
+93,Kathy Bui,"7 Cleve Street, Mansfield Park",Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,22:15:29,Mansfield Park,BimBim
+94,Thu Van,"31A Braund Road, Fitzroy, Prospect, 5082",Delivery,31.700000000000006,Minh Tan,Completed,Bank Transfer,11:10:00,Prospect,BimBim
+96,Minh Khue,230 North Terrace,Delivery,20.8,Hoang Anh,Completed,Bank Transfer,14:13:33,CBD,BimBim
+97,Kathy,CBD,Pick-up,9.9,Hoang Anh,Completed,Bank Transfer,20:29:52,CBD,BimBim
+98,Thuy Le,Paralowie,Pick-up,6.95,Anto,Completed,Bank Transfer,13:42:20,Woodville South,BimBim
+99,Chrissy Nguyen,31A Braund Road Fitzroy (Prospect) SA 5082,Delivery,18.8,Anto,Completed,Bank Transfer,19:30:00,Prospect,BimBim
+100,Duyen Tran,5 Balranald Street Ferryden Park 5010,Delivery,16.0,Anto,Completed,Bank Transfer,15:00:11,Croydon Park,I Love My Family
+102,Khánh Vy Nguyễn,"303/47 Fifth Street, Bowden, SA 5007",Delivery,23.75,Hoang Anh,Completed,Bank Transfer,17:44:21,CBD,BimBim
+103,Vy,"4 Marlborough Crescent, Fulham Garden ",Delivery,30.7,Anto,Completed,Bank Transfer,19:22:45,Woodville,BimBim
+104,Vy,303/47 fifth street bowden SA 5007,Delivery,15.8,Hoang Anh,Completed,Bank Transfer,13:05:31,Croydon Park,BimBim
+105,3t,Bánh tráng tẩm muối,Pick-up,19.8,Anto,Completed,Bank Transfer,17:30:00,Mansfield Park,BimBim
+106,Linh,"67 Cudmore Terrace, Marleston, SA 5033",Delivery,16.8,Hoang Anh,Completed,Bank Transfer,05:00:13,CBD,BimBim
+107,Kim,81a Addison rd pennington 5013,Delivery,33.0,Anto,Completed,Bank Transfer,05:00:13,CBD,I Love My Family
+108,Kim,81a Addison rd pennington 5013,Delivery,0.0,Minh Tan,Cancelled,Bank Transfer,19:00:00,Woodville,BimBim
+109,Nguyen Ngoc Hoang,"22 Grayson street, Kilkenny",Delivery,33.75,Hoang Anh,Completed,Bank Transfer,19:00:00,Woodville,BimBim
+110,Nguyen Thi Tuyet My,"67 cudmore terrace, Marleston 5033",Delivery,10.900000000000002,Hoang Anh,Completed,Bank Transfer,19:31:00,Kilkenny,BimBim
+111,An,"08 Berliet St, Croydon Park, SA 5008",Delivery,18.8,Anto,Completed,Bank Transfer,16:00:00,CBD,BimBim
+112,RyanBui,"15 MC.kenna street, kensington park",Delivery,19.8,Anto,Completed,Bank Transfer,13:54:45,Croydon Park,BimBim
+113,Trang Nguyen,18 Resthaven Road Parafield Gardens 5107,Delivery,14.9,Anto,Completed,Cash,17:00:38,Athol Park,BimBim
+114,Linh Luu ,19D Gameau Road Paradise SA 5075 ,Delivery,19.7,Hoang Anh,Completed,Bank Transfer,07:30:40,Kilburn,BimBim
+115,Amy ,"88 Frome St, Adelaide, SA 5000",Delivery,51.55,Hoang Anh,Completed,Cash,05:30:11,CBD,BimBim
+116,Duyen Tran,5 Balranald Street Ferryden Park 5010,Delivery,0.0,Minh Tan,Cancelled,Cash,16:45:00,CBD,BimBim
+117,Amy ,"88 Frome street, Adelaide, SA 5000",Delivery,26.75,Hoang Anh,Completed,Bank Transfer,17:05:38,Croydon Park,BimBim
+118,Ly,21A Willcox street,Delivery,39.55,Minh Tan,Completed,Bank Transfer,18:58:00,CBD,BimBim
+119,Ly,21A Willcox street,Pick-up,0.0,Hoang Anh,Cancelled,Cash,18:45:28,CBD,BimBim
+120,Anh,"14A Sutherland road, Ferryden park sa 5010",Delivery,12.9,Minh Tan,Completed,Bank Transfer,18:47:36,CBD,BimBim
+121,Nhu,"Unit 1801, 152-160 Grote street Adelaide SA 5000",Delivery,15.8,Anto,Completed,Bank Transfer,19:28:00,Ferryden Park,BimBim
+122,Trang nguyen,15 Audley ave prospect sa 5082,Delivery,11.9,Anto,Completed,Bank Transfer,15:00:00,CBD,BimBim
+123,Trang,18 Resthaven road Parafield garden ,Delivery,0.0,Anto,Cancelled,Bank Transfer,21:45:00,Prospect,BimBim
+124,Thu Hà Nguyễn Thị,"55 Findon road, woodville South",Delivery,25.75,Anto,Completed,Bank Transfer,15:11:34,Croydon Park,BimBim
+125,Thy Ta,22 Dudley Street Mansfield Park ,Delivery,19.75,Anto,Completed,Bank Transfer,15:15:50,Woodville South,BimBim
+126,Trúc Phạm,18 Rowlands Place,Delivery,11.85,Anto,Completed,Cash,16:30:37,Mansfield Park,BimBim
+127,3t,5012,Delivery,17.85,Anto,Completed,Cash,16:11:53,CBD,BimBim
+128,Nhi,Unit 3 181 Stanley street North Adelaide 5006,Pick-up,19.8,Anto,Completed,Bank Transfer,19:55:00,Woodville,BimBim
+129,Phi Trần,"7 Grove Avenue, Everard Park, SA 5035",Delivery,11.85,Minh Tan,Completed,Bank Transfer,20:30:49,CBD,BimBim
+130,Giang Nguyen,36 Nairn street ,Delivery,12.9,Hoang Anh,Completed,Bank Transfer,19:30:00,CBD,BimBim
+131,Sonca tran,"6 peter street,lockleys ",Delivery,10.9,Quynh Anh,Completed,Cash,15:30:49,Ferryden Park,BimBim
+132,Rachel VAN,"31A Braund Road, Fitzroy, Prospect 5082",Delivery,14.85,Hoang Anh,Completed,Bank Transfer,18:48:04,Woodville South,BimBim
+133,Rachel VAN,"31A Braund Road, Fitzroy, Prospect 5082",Pick-up,0.0,Hoang Anh,Cancelled,Bank Transfer,16:00:00,Prospect,BimBim
+134,Hoang Tuan Anh Nguyen,"206/267 Hutt Street, Adelaide 5000 SA ",Delivery,42.55,Minh Tan,Completed,Bank Transfer,16:00:00,Prospect,BimBim
+135,Hoàng Lưu Vân Anh,"11 Havelock Street, Largs Bay",Delivery,20.8,Hoang Anh,Completed,Bank Transfer,19:50:50,CBD,BimBim
+136,Thư,"5 Morlei Avenue, Croydon Park",Delivery,20.8,Hoang Anh,Completed,Bank Transfer,20:09:31,Mansfield Park,BimBim
+137,Amy ,88 Frome Street ,Delivery,12.85,Anto,Completed,Bank Transfer,21:00:55,Croydon Park,BimBim
+139,Kathy,"7 Cleve Street, Mansfield Park",Pick-up,32.0,Anto,Completed,Bank Transfer,16:25:00,Kilkenny,I Love My Family
+141,Khanh Ngo,20 Montague Road Ingle Farm 5098,Pick-up,19.75,Hoang Anh,Completed,Bank Transfer,17:00:31,CBD,BimBim
+143,Thoa nguyen,"13 Manchester parade, Lightsview 5085",Pick-up,33.0,Hoang Anh,Completed,Bank Transfer,16:16:00,CBD,I Love My Family
+144,Quế Minh Trần,"10 Warner Avenue, Findon SA 5023",Delivery,23.75,Hoang Anh,Completed,Bank Transfer,19:02:12,Prospect,BimBim
+145,Nhi,23 King William street,Delivery,6.95,Hoang Anh,Completed,Bank Transfer,15:00:00,Woodville,BimBim
+146,Vy Nguyen,230 North Terrace,Pick-up,20.85,Hoang Anh,Completed,Bank Transfer,15:17:19,CBD,BimBim
+147,Kim Linh ,19D Gameau Road Paradise SA 5075 ,Delivery,11.9,Minh Tan,Completed,Bank Transfer,15:46:27,CBD,BimBim
+148,Gia Bảo,4a Jaffrey st Blair Athol 5084,Delivery,45.5,Minh Tan,Completed,Bank Transfer,19:30:03,Prospect,BimBim
+149,Tran Le Quynh Nhu,"105 arthur street, pennington,SA",Delivery,28.750000000000004,Hoang Anh,Completed,Bank Transfer,17:44:00,Prospect,BimBim
+150,Tran Le Quynh Nhu,"105 Arthur Street,Pennington,SA",Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,15:30:00,Pennington,BimBim
+151,Thuỵ Khuê,46 Watson Avenue Rose Park,Delivery,13.7,Hoang Anh,Completed,Bank Transfer,15:25:37,Pennington,BimBim
+152,Rachel Van,"31A Braund Road, Fitzroy, 5082",Delivery,17.85,Hoang Anh,Completed,Bank Transfer,17:30:32,CBD,BimBim
+153,Thi Van Hoang,"236 Lady Gowrie Drive, Largs North, SA 5016",Delivery,20.8,Hoang Anh,Completed,Bank Transfer,15:30:00,Prospect,BimBim
+154,Thi Van Hoang,"236 Lady Gowrie Drive, Largs North, SA 5012",Delivery,0.0,Minh Tan,Cancelled,Bank Transfer,16:00:40,Pennington,Vietnamese Dessert
+155,Thi Van Hoang,"236 Lady Gowrie Drive, Largs North, SA 5016",Delivery,0.0,Hoang Anh,Cancelled,Bank Transfer,16:00:00,Pennington,BimBim
+156,Gia Bảo,"4a jaffrey st , Blair Athol",Delivery,12.85,Hoang Anh,Completed,Bank Transfer,16:00:42,Pennington,BimBim
+157,Kim Linh ,19D Gameau Road Paradise SA 5075 ,Delivery,5.0,Hoang Anh,Completed,Bank Transfer,16:00:42,Pennington,Vietnamese Dessert
+158,V,303/47 fifth street bowden 5007,Delivery,0.0,Minh Tan,Cancelled,Bank Transfer,16:18:21,Pennington,BimBim
+159,Quế Minh Trần,"10 Warner Avenue, Findon SA 5023",Delivery,19.75,Hoang Anh,Completed,Bank Transfer,15:21:32,Prospect,BimBim
+161,Heidi,"Unit 26/131 Gray street, Adelaide, SA 5000",Delivery,15.0,Hoang Anh,Completed,Bank Transfer,19:00:48,Croydon Park,JC's TakeAway
+162,Han,"64 Overland Road, Croydon Park",Delivery,13.9,Hoang Anh,Completed,Bank Transfer,18:13:34,Croydon Park,BimBim
