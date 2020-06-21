@@ -1,5 +1,5 @@
-# Portfolio
-<p><strong><i>Welcome to SitLoBoi Portfolio.</i></strong></p> 
+# Project
+<p><strong><i>Welcome to SitLoBoi Project.</i></strong></p> 
 <p><strong><i>This is where I upload different type of Folder that is I did during my high school and university year</i></strong></p>
 <p><strong><i>The explaination for each of the Folder is at below. This would help you have a clearer view what is happening in each of the Folder</i></strong></p>
 </br>
@@ -17,7 +17,7 @@ Not only that, for each of the Project, it represent the knowleadge of Data Scie
 I will arrange from the latest to the oldest project that I have done </br>
 And there will be a background story behind every folder in Portfolio </p>
 
-# Python Project
+# Python GUI
 <p><strong><i>Specific Python Project</i></strong></p>
 <p>In this folder, I usually upload the project that not related to Data Science or Algorithm </br>
 This is implement Python GUI Project such as Music Player or Chat Room Server</p>
