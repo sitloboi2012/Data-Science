@@ -1,14 +1,25 @@
-# Data-Science Folder
-*<strong>Welcome to Data Science Folder. This is where I posted every Personal Project and Internship Project that I have done</strong>*
-<br/> </br>
-Some of the Project that is available in the Folder:
-1. BimBim South Australia Website (Intern)
-2. BimBim South Australia Dataset Analyst (Intern)
-3. Credit Card Fraud Analyst
-4. Stock Price Prediction Analyst
-5. Melbourne House Price Prediction Analyst
-6. Titanic Dataset Analyst
-7. Wine Dataset Analyst
-8. Personal Project Music Player App
+# Portfolio
+<p><strong><i>Welcome to SitLoBoi Portfolio.</i></strong></p> 
+<p><strong><i>This is where I upload different type of Folder that is I did during my high school and university year</i></strong></p>
+<p><strong><i>The explaination for each of the Folder is at below. This would help you have a clearer view what is happening in each of the Folder</i></strong></p>
+</br>
 
-<h2><strong>For more information. Please see the Folder each of the Project.</strong></h2>
+# Algorithm Hacker Rank & Code Force Folder
+<p><strong><i>Algorithm + Competition</i></strong></p>
+<p>This is where I joined into multiple of competition on Hacker Rank and Codeforce platform</br>
+I practice and update my algorithm skill through out each of the problem that I did during the competition and training</p>
+<p>Also, this is where I learnt multiple of Algorithm Technique like Sort, Stack, Big O Notation, etc.</p>
+
+# Portfolio
+<p><strong><i>Personal + Internship Project</i></strong></p>
+<p>This is where I end up learning and applying Data Science knowleadge into real-life dataset</br>
+Not only that, for each of the Project, it represent the knowleadge of Data Science that I have gain during that period </br>
+I will arrange from the latest to the oldest project that I have done </br>
+And there will be a background story behind every folder in Portfolio </p>
+
+# Python Project
+<p><strong><i>Specific Python Project</i></strong></p>
+<p>In this folder, I usually upload the project that not related to Data Science or Algorithm </br>
+This is implement Python GUI Project such as Music Player or Chat Room Server</p>
+
+<h3><i>For more information. Please have a look at each folder</i></h3>
