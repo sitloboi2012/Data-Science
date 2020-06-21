@@ -9,4 +9,3 @@
 4. Credit Card Fraud Dataset Analyst
 5. Titanic Survival Dataset
 6. Wine Type Dataset
-7. Music Player GUI
