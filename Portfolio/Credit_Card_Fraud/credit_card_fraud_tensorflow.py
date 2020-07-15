@@ -1,12 +1,15 @@
+#Import library tensorflow
 import tensorflow as tf
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import BatchNormalization,Dropout,Dense,Flatten,Conv1D
 from tensorflow.keras.optimizers import Adam
 
+#Import Numpy, Pandas and Matplotlib
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 
+#Import Sklearn
 import sklearn
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler
